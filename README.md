@@ -5,7 +5,7 @@
 - You can find different kinds of non-local block in **lib/**. 
 - The code is tested on MNIST dataset. You can select the type of non-local block 
 in **lib/network.py**.
-- If there is something wrong in my code, please contact me, thanks!
+- If there is something wrong in my code, please contact me,
 
 
 ## Environment
